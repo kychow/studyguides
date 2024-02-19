@@ -57,7 +57,7 @@ def maxConsecutiveAnswers(answers: str, k: int) -> int:
     return max_same
 
 # 5. Problem List 
-https://leetcode.com/list/p9b40lce
+# https://leetcode.com/list/p9b40lce
 # Longest Substring Without Repeating Characters
 # Minimum Size Subarray Sum
 # Longest Substring with At Most K Distinct Characters
