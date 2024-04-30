@@ -15,18 +15,18 @@
 10. DP
 
 ## Data Structures
-[] Hashing & Maps 
-[] Linked Lists
-[] Stacks & Queues
-[] Trees & Graphs
-    [] Disjoint set / Union Find
-    [] Topological sort 
-    [] Dijkstra's
-[] Heaps & Priority Queues
+[ ] Hashing & Maps 
+[ ] Linked Lists
+[ ] Stacks & Queues
+[ ] Trees & Graphs
+    [ ] Disjoint set / Union Find
+    [ ] Topological sort 
+    [ ] Dijkstra's
+[ ] Heaps & Priority Queues
 
 ## Complete Search 
-[] Sorting & Searching
-[] Recursion / Backtracking 
+[ ] Sorting & Searching
+[ ] Recursion / Backtracking 
 [] Greedy
 [] Dynamic Programming 
 

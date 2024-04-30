@@ -8,6 +8,8 @@ Bit manipulations
 * a ^= 1 << i flips the ith bit of a
 * a |= 1 << i set the ith bit of a
 * a &= ~(1 << i) clear the ith bit of a
+* a & (a - 1) remove the rightmost signifcant bit in x
+* a & -a sets all the one bits except last one bit to 0
 
 
 Brian Kernighan's Algorithm: counting the number of 1-bits of an integer.
